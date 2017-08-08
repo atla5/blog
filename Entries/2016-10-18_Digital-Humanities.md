@@ -17,7 +17,7 @@ In so doing, they’ve been able to establish new forms of user-content interact
 
 Users (patrons) and administrators/managers (staff) alike have been able to add and extract this value through the power of crowdsourcing 
   ([transcription project](https://transcription.si.edu/)), social interaction communicating interest and interpretive importance 
-  (Cleveland Museum of Art [collection wall(http://www.clevelandart.org/gallery-one/collection-wall)), and free publishing and open 
+  (Cleveland Museum of Art [collection wall](http://www.clevelandart.org/gallery-one/collection-wall)), and free publishing and open 
   access (wikimedia). 
   
   I believe the improved workflows and invigorated relevance of these collections this technology has afforded will have a tremendous 
