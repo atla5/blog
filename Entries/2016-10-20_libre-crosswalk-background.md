@@ -1,6 +1,6 @@
 # lib-re/crosswalk Background
 
-<-- {  
+<!-- {  
   "tags": ["lib-re", "school", "MUSE-359", "metadata", "crosswalk", "information architecture"]
 } -->
 
