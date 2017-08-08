@@ -75,9 +75,9 @@ Which suggests:
   4) a single user must be able to swap between them at will
   5) systems can be put in place to _suggest_ certain views, even beyond a 'default'
   6) system does not necessarily need to await current-time input on user, but should support 
-    - user setting a pre-set schedule/rules 
-    - user override or configuration of suggestions 
-    - ...
+      - user setting a pre-set schedule/rules 
+      - user override or configuration of suggestions 
+      - ...
   7) switching should be deliberate, noticeable, and not overwhelmingly frequent
   
 ## Practicality/Efficiencies
