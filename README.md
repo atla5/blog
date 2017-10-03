@@ -38,3 +38,8 @@ I chose a github repository because:
 - can restrict this repo to only the text (model)/formatting (view) and not the control
 - browsing through github defaults to rendered view, easy to use tools locally (e.g atom) as well.
 - usable out of the box, but open to more complicated features with Issues and TravisCI
+
+#### Plan ####
+- [ ] determine a json schema to improve the existing `tags:[]` only one going right now (embedded and from the naming/metadata)
+- [ ] go through and ensure that all of them have the embedded tags
+- [ ] create an aggregator script to generate a `blogs.json` for `atla5.github.io` consumption ;]
