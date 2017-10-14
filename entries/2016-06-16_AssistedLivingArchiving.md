@@ -1,5 +1,9 @@
 # Assisted Living Archiving #
 
+<!-- {
+  "tags": ["ideas", "archiving", "archives"]
+} -->
+
 ## Idea ##
 
 #### short ####

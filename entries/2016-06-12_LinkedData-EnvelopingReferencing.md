@@ -1,10 +1,8 @@
 # LinkedData and enveloping referencing #
 
-<!--
-{
+<!-- {
   "tags": ["LIS","cataloguing","metadata","linked data","marc"]
-}
--->
+} -->
 
 ## intro ##
 
@@ -23,9 +21,6 @@ Such a granular approach would enrich the capacity for more in-depth and
   programmatically useful record parts, and make individual records much more
   easy to read and generate, as well as much more resistant to change and the
   necessity to edit.
-
-## ids ##
-the
 
 ## enveloping hierarchy ##
 Such a method would allow for - and encourage - the use of recursive, or
